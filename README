@@ -1,0 +1,36 @@
+Simply compile it by using the following command
+
+  $ make
+
+After this it's simply running like this
+
+  $ ./love name
+
+Which would output the following:
+
+         namename            namenamen
+      namenamenamena       namenamenamename
+    namenamenamenamenam   namenamenamenamenam
+   namenamenamenamenamenamenamename       name
+  namenamenamenamenamenamenamename         name
+ namenamenamenamenamenamenamenamename       name
+ namenamenamenamenamenamenamenamenamename      n
+namenamenamenamenamenamenamenamenamenamename  nam
+namenamenamenamenamenamenamenamenamenamenamena n
+namenamenamenamenamenamenamenamenamenamenamenamen
+namenamenamenamenamenamenamenamenamenamenamenamen
+ namenamenamenamenamenamenamenamenamenamenamenam
+  namenamenamenamenamenamenamenamenamenamenamen
+    namenamenamenamenamenamenamenamenamenamena
+      namenamenamenamenamenamenamenamenamen
+         namenamenamenamenamenamenamenam
+            namenamenamenamenamenamen
+              namenamenamenamename
+                 namenamenamen
+                   namenamen
+                     namena
+                      name
+                       na
+
+
+But then BLUE.
