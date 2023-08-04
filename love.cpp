@@ -2,7 +2,7 @@
 #include <string>
 #define BRIGHT 1
 #define BLUE 34
-#define BGWHITE 37
+#define BGWHITE 34
 
 int main(int argc, char **argv) {
   if (argc < 2) {
