@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <string>
 #define BRIGHT 1
-#define BLUE 31
-#define BGWHITE 40
+#define BLUE 34
+#define BGWHITE 37
 
 int main(int argc, char **argv) {
   if (argc < 2) {
